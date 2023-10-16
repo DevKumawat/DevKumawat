@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://gifer.com/NIbp"/>
+  <img src="https://i.gifer.com/NIbp.gif"/>
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
