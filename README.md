@@ -27,7 +27,7 @@
 <img width="300" align="right" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devkumawat&label=Profile%20views&color=0e75b6&style=flat" alt="devkumawat" /> </p>
 
-- 🌱 I’m currently learning **Mern Technologies(MongoDB,Express,React js,Node js)**
+- 🌱 I’m currently working as full stack developer.
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
